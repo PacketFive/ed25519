@@ -46,7 +46,7 @@ on a current x86_64 core.
 ```sh
 pip install --group dev
 pip install -e .
-pybootstrap check
+coldframe check
 ```
 
 ## License
