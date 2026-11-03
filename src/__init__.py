@@ -9,6 +9,6 @@ section 5.1, so they interoperate with any other implementation.
 
 from .keys import BadSignatureError, SigningKey, VerifyingKey
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = ["BadSignatureError", "SigningKey", "VerifyingKey", "__version__"]

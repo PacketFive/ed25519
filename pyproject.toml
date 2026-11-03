@@ -12,7 +12,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 license = "GPL-2.0-only"
 license-files = ["LICENSE"]
-authors = [{ name = "PacketFive" }]
+authors = [{ name = "Weqaar Janjua", email = "weqaar.janjua@packetfive.com" }]
+maintainers = [{ name = "PacketFive" }]
 keywords = ["ed25519", "eddsa", "rfc8032", "signature", "pure-python"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
